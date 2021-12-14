@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      username: desafio
+      password: desafiotec
+      database: desafiodb
+      port: 27017
+      host: localhost
+      
