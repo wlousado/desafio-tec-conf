@@ -2,4 +2,5 @@ spring:
   data:
     mongodb:
       uri: mongodb://desafio:desafiotec@localhost:27017/desafiodb
-      
+teste: "OK"
+ 
