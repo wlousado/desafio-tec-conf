@@ -1,6 +1,6 @@
 spring:
   data:
     mongodb:
-      uri: mongodb://desafio:desafiotec@localhost:27017/desafiodb
-  teste: "OK"
+      uri: mongodb://desafio:desafiotec@localhost:270177777/desafiodb
+ teste: "OK"
  
