@@ -1,4 +1,9 @@
 spring:
   data:
     mongodb:
-      uri: mongodb://desafio:desafiotec@localhost:27017/desafiodb
+      authentication-database: admin
+      username: desafio
+      password: desafiotec
+      database: desafiodb
+      port: 27017
+      host: localhost
