@@ -1,6 +1,1 @@
-spring:
-  data:
-    mongodb:
-      uri: mongodb://desafio:desafiotec@localhost:270177777/desafiodb
- teste: "OK"
- 
+teste: "OK"
